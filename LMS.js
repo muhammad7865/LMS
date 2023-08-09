@@ -1,4 +1,4 @@
-//dark and light mood of the page
+//dark and light mood of the page from here
 
 document.getElementById("dark").onclick = (e) => {
   
